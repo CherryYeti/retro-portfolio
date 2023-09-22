@@ -1,6 +1,6 @@
 {
   "name": "retro-portfolio",
-  "private": true,
+  "private": false,
   "author": "Jason Javandel <jasonjavandel@protonmail.com>",
   "version": "0.0.1",
   "type": "module",
