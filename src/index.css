@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "Aseprite";
+  src: local("Aseprite"), url(/Aseprite.ttf) format("truetype");
+}
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Aseprite";
+}
+html {
+  background-color: #7d929e;
+}
